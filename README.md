@@ -9,7 +9,7 @@
 
 - Addin Hadi Rizal (IF 2022) [Github](https://github.com/AddinRizal)
 
-- Abraham Willem Hersubagyo (IF 2022) [Github](https://github.com/SyafiqMSI)
+- Abraham Willem Hersubagyo (IF 2022) [Github](https://github.com/AbrahamWillemH)
 
 
 <br>
