@@ -7,9 +7,9 @@
 <p align="right"> <h3>Tim Asisten Dosen :</h3> 
   </p>
 
-- Muhammad Annys (IF 2022) [Github](https://github.com/Swordigo15)
+- Addin Hadi Rizal (IF 2022) [Github](https://github.com/AddinRizal)
 
-- Muhammad Syafiq Ibrahim (IF 2022) [Github](https://github.com/SyafiqMSI)
+- Abraham Willem Hersubagyo (IF 2022) [Github](https://github.com/SyafiqMSI)
 
 
 <br>
