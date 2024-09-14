@@ -19,6 +19,11 @@
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
 </p>
+<p align="left">
+  <a href="https://wa.me/+6282275032336" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
